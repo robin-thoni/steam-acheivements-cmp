@@ -1,0 +1,7 @@
+steam_api_key: 010203040506070809
+appid: 232090 # KF 2
+steamids:
+  - 123 # You
+  - 456 # Friend 1
+  - 789 # Friend 2
+language: english

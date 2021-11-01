@@ -1,0 +1,7 @@
+argparse
+pydantic
+jinja2
+pyyaml
+requests
+colored
+tabulate
